@@ -67,7 +67,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AcengProject &show_icons=true&theme=gotham" alt="AcengProject" />
+<p   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=onedark&preferLogin=true&Background=000000">    <img  alt="rurypratama's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rurypratama?cardType=github&theme=onedark&preferLogin=true&Background=000000" />  </a>
 
 
 
